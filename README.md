@@ -1,8 +1,8 @@
 # Olá, Eu Sou o Daniel Soeiro 👋🏻
 Sou um analista de dados apaixonado por tecnologia e futebol. Tenho experiência em análise de dados, criação de dashboards e desenvolvimento de modelos preditivos para ajudar empresas a tomarem decisões informadas. 
 
-<a href="caminho/para/seu/curriculo.pdf" download="Daniel_Soeiro_Curriculo">
-  <button style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px;">
+<a href="https://drive.google.com/file/d/1HwcKR3S80zAQLnIk51wclKj2zQQSyCtx/view?usp=sharing" download="Daniel_Soeiro_Curriculo">
+  <button style="background-color: #4CAF50; color: white; padding: 7px 17px; text-align: center; text-decoration: none; display: inline-block; font-size: 8px;">
     Download do Currículo
   </button>
 </a>
