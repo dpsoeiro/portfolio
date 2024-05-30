@@ -16,9 +16,9 @@ Sou um analista de dados apaixonado por tecnologia e futebol. Tenho experiência
         <h2 style="margin: 0;">Itaú Unibanco</h2>
         <p style="margin: 0;">Cargo: Estagiário - Data Analytics | Data Governance</p>
         <p style="margin: 0;">Período: Dez 2016 - Ago 2018</p>
-        <p style="margin-top: 8px;">Principal atividades: Análise e governança dos KPIs das centrais de atendimento ao
+        <p style="margin-top: 8px;">Principal atividades: Análise e governança dos <strong>KPIs</strong> das centrais de atendimento ao
                                     cliente do banco utilizando técnicas estatísticas, de computação (SQL, SAS) e de
-                                    BI.Trabalho frequente com ferramentas de análise de dados, como SAS, Tableau e
-                                    SQL, além de criação de sistemas de controle usando Excel. .</p>
+                                    BI.Trabalho frequente com ferramentas de <strong>análise de dados</strong>, como <strong>SAS, Tableau e
+                                    SQL</strong>, além de criação de <strong>sistemas de controle usando Excel</strong>. .</p>
     </div>
 </div>
