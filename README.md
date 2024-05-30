@@ -1,12 +1,6 @@
 # Olá, Eu Sou o Daniel Soeiro 👋🏻
 Sou um analista de dados apaixonado por tecnologia e futebol. Tenho experiência em análise de dados, criação de dashboards e desenvolvimento de modelos preditivos para ajudar empresas a tomarem decisões informadas. 
 
-<a href="https://drive.google.com/file/d/1HwcKR3S80zAQLnIk51wclKj2zQQSyCtx/view?usp=sharing" download="Daniel_Soeiro_Curriculo">
-  <button style="background-color: #4CAF50; color: white; padding: 7px 17px; text-align: center; text-decoration: none; display: inline-block; font-size: 9px;">
-    Download do Currículo
-  </button>
-</a>
-
 <div style="display: flex; justify-content: start; gap: 10px;">
   <!-- Botão de Download para o currículo -->
   <a href="https://drive.google.com/file/d/1HwcKR3S80zAQLnIk51wclKj2zQQSyCtx/view?usp=sharing" download="Daniel_Soeiro_Curriculo">
@@ -28,7 +22,7 @@ Sou um analista de dados apaixonado por tecnologia e futebol. Tenho experiência
 Algumas das skills que possuo:
 
 <!-- Cloud -->
-<div>
+<div style="margin-bottom: 10px;">
   <h3>Cloud</h3>
   <div style="display: inline_block">
     <img align="center" alt="azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -37,7 +31,7 @@ Algumas das skills que possuo:
 </div>
 
 <!-- BI -->
-<div>
+<div style="margin-bottom: 10px;">
   <h3>Business Intelligence (BI)</h3>
   <div style="display: inline_block">
     <img align="center" alt="powerbi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
@@ -114,8 +108,8 @@ Algumas das skills que possuo:
         <p style="margin: 0;">Período: Mar 2021 - Atual</p>
         <p style="margin-top: 8px;">Principal atividades: Construção de análises e processos para suporte a análise de dados envolvendo o
                                                           atendimento móvel e fixa de clientes B2B da Vivo. <strong>Modelagem e construção de ETL
-                                                          para estruturação de dados/strong>.Criação de <strong>modelos de Machine Leaning</strong> para predição
+                                                          para estruturação de dados</strong>.Criação de <strong>modelos de Machine Leaning</strong> para predição
                                                           de clientes que possuem comportamento ofensor para nos contatar nos canais de
-                                                          ouvidoria </p>
+                                                          ouvidoria. </p>
     </div>
 </div>
