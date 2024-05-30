@@ -35,3 +35,18 @@ Sou um analista de dados apaixonado por tecnologia e futebol. Tenho experiência
                                      Trabalho frequente com Power BI e SQL Server. .</p>
     </div>
 </div>
+
+<div style="display: flex; align-items: center; border: 1px solid #ddd; padding: 16px; margin-bottom: 16px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_C6_Bank.svg/2560px-Logo_C6_Bank.svg.png" alt="Logo C6" style="max-width: 80px; max-height: 80px; margin-right: 16px;"> 
+    <div>
+        <h2 style="margin: 0;">C6 Bank</h2>
+        <p style="margin: 0;">Cargo: Data Analyst|Data Governance</p>
+        <p style="margin: 0;">Período: Ago 2019 - Mar 2021</p>
+        <p style="margin-top: 8px;">Principal atividades: Implementação da área de governança de dados no banco, realizando atividades 
+                                    como <strong>automatização do mapeamento de dados sensíveis no data lake</strong>, Data Stewardship e definição de conceitos e 
+                                    regras para padronização e acesso aos dados por meio da ferramenta "Data Catalog". Além disso, desenvolvi um <strong>dashboard 
+                                    de monitoramento do data lake</strong>, com extração automática de metadados e indicadores de controle, como a quantidade de 
+                                    acessos e novas tabelas inseridas. Também contribui para o enriquecimento de informações visando à criação de um dicionário de 
+                                    dados padronizado.</p>
+    </div>
+</div>
