@@ -1,19 +1,9 @@
 # Olá, Eu Sou o Daniel Soeiro 👋🏻
 Sou um analista de dados apaixonado por tecnologia e futebol. Tenho experiência em análise de dados, criação de dashboards e desenvolvimento de modelos preditivos para ajudar empresas a tomarem decisões informadas. Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
-# Skills
-Algumas das skills que possuo:
-<div style="display: inline_block"><br/>
-  <img align="center" alt="powerbi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img align="center" alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img align="center" alt="azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img align="center" alt="googlecloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<div>
 
 
-# Educação
+## Educação
 -  Graduação: Engenharia de Produção
    - Instituição: Instituto Mauá de Tecnologia - Escola de Engenharia Mauá
    - Duração: 2013-2020
