@@ -22,7 +22,7 @@ Algumas das skills que possuo:
 </div>
 
 <!-- Outras tecnologias -->
-<div>
+<div style="margin-bottom: 30px;">
   <h3>Outras Tecnologias</h3>
   <div style="display: inline_block">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -30,8 +30,7 @@ Algumas das skills que possuo:
     <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   </div>
 </div>
-</div>
-</div>
+
 
 
 ## Educação
