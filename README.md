@@ -7,7 +7,18 @@ Sou um analista de dados apaixonado por tecnologia e futebol. Tenho experiência
    - Duração: 2013-2020
 -  Pós- Graduação: Engenharia de Dados
    - Instituição: Universidade Federal do Rio de Janeiro - Escola Politécnica - ITLab
-   - Duração: 2013-2020
+   - Duração: 2022-2023
+ 
+# Skills
+Algumas das skills que possuo:
+<div style="display: inline_block"><br/>
+  <img align="center" alt="powerbi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img align="center" alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img align="center" alt="azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img align="center" alt="googlecloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<div>
 
 ## Experiência
 <div style="display: flex; align-items: center; border: 1px solid #ddd; padding: 16px; margin-bottom: 16px;">
@@ -48,5 +59,19 @@ Sou um analista de dados apaixonado por tecnologia e futebol. Tenho experiência
                                     de monitoramento do data lake</strong>, com extração automática de metadados e indicadores de controle, como a quantidade de 
                                     acessos e novas tabelas inseridas. Também contribui para o enriquecimento de informações visando à criação de um dicionário de 
                                     dados padronizado.</p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; border: 1px solid #ddd; padding: 16px; margin-bottom: 16px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL05qB4nRAy1LsWhalcBxyZkorp6m6qMN0Cw&s" alt="Logo Vivo" style="max-width: 80px; max-height: 80px; margin-right: 16px;"> 
+    <div>
+        <h2 style="margin: 0;">Vivo - Telefônica Brasil</h2>
+        <p style="margin: 0;">Cargo: Data Analyst</p>
+        <p style="margin: 0;">Período: Mar 2021 - Atual</p>
+        <p style="margin-top: 8px;">Principal atividades: Construção de análises e processos para suporte a análise de dados envolvendo o
+                                                          atendimento móvel e fixa de clientes B2B da Vivo. <strong>Modelagem e construção de ETL
+                                                          para estruturação de dados/strong>.Criação de <strong>modelos de Machine Leaning</strong> para predição
+                                                          de clientes que possuem comportamento ofensor para nos contatar nos canais de
+                                                          ouvidoria </p>
     </div>
 </div>
