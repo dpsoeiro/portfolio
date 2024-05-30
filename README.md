@@ -9,14 +9,12 @@ Sou um analista de dados apaixonado por tecnologia e futebol. Tenho experiência
    - Instituição: Universidade Federal do Rio de Janeiro - Escola Politécnica - ITLab
    - Duração: 2013-2020
 
-# Experiência
-<div class="job-entry">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUSEM56COQz0LJAzNw8q7Pgp9McpQej3kRg&s" alt="Logo Itaú">
-    <div class="job-details">
-        <div class="job-title">
-            <h2>Itaú Unibanco</h2>
-        </div>
-        <p class="job-period">Estagiário - Data Analytics | Data Governance - Período: Dez 2016 - Ago 2018</p>
-        <p class="job-description">Uma breve descrição do que eu fazia.</p>
+## Experiência
+<div style="display: flex; align-items: center; border: 1px solid #ddd; padding: 16px; margin-bottom: 16px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUSEM56COQz0LJAzNw8q7Pgp9McpQej3kRg&s" alt="Logo Itaú" style="max-width: 80px; max-height: 80px; margin-right: 16px;">
+    <div>
+        <h2 style="margin: 0;">Itaú Unibanco</h2>
+        <p style="margin: 0;">Estagiário - Data Analytics | Data Governance - Período: Dez 2016 - Ago 2018</p>
+        <p style="margin-top: 8px;">Uma breve descrição do que eu fazia.</p>
     </div>
 </div>
