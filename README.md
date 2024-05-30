@@ -13,9 +13,10 @@ Sou um analista de dados apaixonado por tecnologia e futebol. Tenho experiência
 <div class="job-entry">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUSEM56COQz0LJAzNw8q7Pgp9McpQej3kRg&s" alt="Logo Itaú">
     <div class="job-details">
-        <h2 class="job-title">Itaú Unibanco</h2>
-        <p class="job-period">Estagiário - Data Analytics|Data Governance - Período: Dez 2016 - Ago 2018</p>
+        <div class="job-title">
+            <h2>Itaú Unibanco</h2>
+        </div>
+        <p class="job-period">Estagiário - Data Analytics | Data Governance - Período: Dez 2016 - Ago 2018</p>
         <p class="job-description">Uma breve descrição do que eu fazia.</p>
     </div>
 </div>
-
