@@ -20,7 +20,10 @@ Algumas das skills que possuo:
   <img align="center" alt="googlecloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <div>
 
-## Experiência
+
+
+
+# Experiência
 <div style="display: flex; align-items: center; border: 1px solid #ddd; padding: 16px; margin-bottom: 16px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUSEM56COQz0LJAzNw8q7Pgp9McpQej3kRg&s" alt="Logo Itaú" style="max-width: 80px; max-height: 80px; margin-right: 16px;"> 
     <div>
