@@ -1,25 +1,25 @@
-# Olá, Eu Sou o Daniel Soeiro 👋🏻
-Sou um analista de dados apaixonado por tecnologia e futebol. Tenho experiência em análise de dados, criação de dashboards e desenvolvimento de modelos preditivos para ajudar empresas a tomarem decisões informadas. 
+# Hi, I'm Daniel Soeiro 👋🏻
+I'm a data analyst passionate about technology and football. I have experience in data analysis, creating dashboards and developing predictive models to help companies make informed decisions.
 
 <div style="display: flex; justify-content: start; gap: 10px;margin-bottom: 30px;">
   <!-- Botão de Download para o currículo -->
-  <a href="https://drive.google.com/file/d/1HwcKR3S80zAQLnIk51wclKj2zQQSyCtx/view?usp=sharing" download="Daniel_Soeiro_Curriculo">
+  <a href="https://docs.google.com/document/d/1ydSaXk3R2Au89R1bsCFRmdE_PVZos6FD/edit?usp=sharing&ouid=116007556999460695117&rtpof=true&sd=true" download="Daniel_Soeiro_Curriculo">
     <button style="background-color: #4CAF50; color: white; padding: 7px 17px; text-align: center; text-decoration: none; display: inline-block; font-size: 9px;">
-      Download do Currículo
+      Download Resume
     </button>
   </a>
 
   <!-- Botão Para Blog -->
   <a href="https://medium.com/@dpsoeiro" target="_blank">
     <button style="background-color: #008CBA; color: white; padding: 7px 21px; text-align: center; text-decoration: none; display: inline-block; font-size: 9px;">
-      Clique aqui para ver alguns dos meus projetos
+      Check all my projects
     </button>
   </a>
 </div>
 
 
 ## Skills
-Algumas das skills que possuo:
+Some of Hard Skills I Domain:
 
 <!-- Cloud -->
 <div style="margin-bottom: 10px;">
@@ -50,25 +50,25 @@ Algumas das skills que possuo:
 
 
 
-## Educação
--  Graduação: Engenharia de Produção
-   - Instituição: Instituto Mauá de Tecnologia - Escola de Engenharia Mauá
-   - Duração: 2013-2020
--  Pós- Graduação: Engenharia de Dados
-   - Instituição: Universidade Federal do Rio de Janeiro - Escola Politécnica - ITLab
-   - Duração: 2022-2023
+## Education
+-  Graduation: Industrial Engineering
+   - Maua Institute of Technology 
+   - 2013-2020
+-  MBA: Data Engineering 
+   - Federal University of Rio de Janeiro
+   - 2022-2023
 
-## Experiência
+
+## Experiences
 <div style="display: flex; align-items: center; border: 1px solid #ddd; padding: 16px; margin-bottom: 16px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUSEM56COQz0LJAzNw8q7Pgp9McpQej3kRg&s" alt="Logo Itaú" style="max-width: 80px; max-height: 80px; margin-right: 16px;"> 
     <div>
         <h2 style="margin: 0;">Itaú Unibanco</h2>
-        <p style="margin: 0;">Cargo: Estagiário - Data Analytics | Data Governance</p>
-        <p style="margin: 0;">Período: Dez 2016 - Ago 2018</p>
-        <p style="margin-top: 8px;">Principal atividades: Análise e governança dos <strong>KPIs</strong> das centrais de atendimento ao
-                                    cliente do banco utilizando técnicas estatísticas, de computação (SQL, SAS) e de
-                                    BI.Trabalho frequente com ferramentas de <strong>análise de dados</strong>, como <strong>SAS, Tableau e
-                                    SQL</strong>, além de criação de <strong>sistemas de controle usando Excel</strong>. .</p>
+        <p style="margin: 0;">Job Function:Intern - Data Analytics </p>
+        <p style="margin: 0;">Dec 2016 - Aug 2018</p>
+        <p style="margin-top: 8px;">Main activities: Analysis and governance of <strong>KPIs</strong> of customer service centers
+                                    bank customer using statistical, computing (SQL, SAS) andBI. Frequently work with <strong>data analysis</strong> tools, 
+                                    such as <strong>SAS, Tableau and SQL</strong>, in addition to creating <strong>control systems using Excel</strong>. .</p>
     </div>
 </div>
 
@@ -76,12 +76,11 @@ Algumas das skills que possuo:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/BASF-Logo_bw.svg/1024px-BASF-Logo_bw.svg.png" alt="Logo BASF" style="max-width: 80px; max-height: 80px; margin-right: 16px;"> 
     <div>
         <h2 style="margin: 0;">BASF - Suvinil</h2>
-        <p style="margin: 0;">Cargo: Estagiário - Análise de Dados - Trade Marketing Suvinil</p>
-        <p style="margin: 0;">Período: Ago 2018 - Ago 2019</p>
-        <p style="margin-top: 8px;">Principal atividades: Gestão da <strong>qualidade de dados</strong> de cadastro de campanhas de marketing da
-                                    Suvinil. <strong>Montagem de relatórios</strong> de acompanhamento de performance de campanhas
-                                    de marketing da Suvinil a nível nacional, utilizando conceitos de BI.
-                                     Trabalho frequente com Power BI e SQL Server. .</p>
+        <p style="margin: 0;">Job Function: Intern - Data Analysis - Trade Marketing </p>
+        <p style="margin: 0;">Aug 2018 - Aug 2019</p>
+        <p style="margin-top: 8px;">Main activities: Management of the <strong>data quality</strong> of the company’s marketing campaign registration
+                                    Suvinil. <strong>Compilation of reports</strong> to monitor campaign performance Suvinil's marketing strategy at a national 
+                                    level, using BI concepts.I frequently work with Power BI and SQL Server. .</p>
     </div>
 </div>
 
@@ -89,14 +88,14 @@ Algumas das skills que possuo:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_C6_Bank.svg/2560px-Logo_C6_Bank.svg.png" alt="Logo C6" style="max-width: 80px; max-height: 80px; margin-right: 16px;"> 
     <div>
         <h2 style="margin: 0;">C6 Bank</h2>
-        <p style="margin: 0;">Cargo: Data Analyst|Data Governance</p>
-        <p style="margin: 0;">Período: Ago 2019 - Mar 2021</p>
-        <p style="margin-top: 8px;">Principal atividades: Implementação da área de governança de dados no banco, realizando atividades 
-                                    como <strong>automatização do mapeamento de dados sensíveis no data lake</strong>, Data Stewardship e definição de conceitos e 
-                                    regras para padronização e acesso aos dados por meio da ferramenta "Data Catalog". Além disso, desenvolvi um <strong>dashboard 
-                                    de monitoramento do data lake</strong>, com extração automática de metadados e indicadores de controle, como a quantidade de 
-                                    acessos e novas tabelas inseridas. Também contribui para o enriquecimento de informações visando à criação de um dicionário de 
-                                    dados padronizado.</p>
+        <p style="margin: 0;">Job Function: Data Analyst|Data Governance</p>
+        <p style="margin: 0;">Aug 2019 - Mar 2021</p>
+        <p style="margin-top: 8px;">Main activities: Implementation of the data governance area in the bank, carrying out activities
+                                   such as <strong>automating the mapping of sensitive data in the data lake</strong>, Data Stewardship 
+                                   and defining concepts and rules for standardization and access to data through the "Data Catalog" tool. Additionally, I 
+                                   developed a<strong>dashboard data lake</strong>monitoring, with automatic extraction of metadata and control indicators, 
+                                   such as the amount of accesses and new tables inserted. It also contributes to the enrichment of information with a view to 
+                                   creating a dictionary of standardized data.</p>
     </div>
 </div>
 
@@ -104,12 +103,11 @@ Algumas das skills que possuo:
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL05qB4nRAy1LsWhalcBxyZkorp6m6qMN0Cw&s" alt="Logo Vivo" style="max-width: 80px; max-height: 80px; margin-right: 16px;"> 
     <div>
         <h2 style="margin: 0;">Vivo - Telefônica Brasil</h2>
-        <p style="margin: 0;">Cargo: Data Analyst</p>
-        <p style="margin: 0;">Período: Mar 2021 - Atual</p>
-        <p style="margin-top: 8px;">Principal atividades: Construção de análises e processos para suporte a análise de dados envolvendo o
-                                                          atendimento móvel e fixa de clientes B2B da Vivo. <strong>Modelagem e construção de ETL
-                                                          para estruturação de dados</strong>.Criação de <strong>modelos de Machine Leaning</strong> para predição
-                                                          de clientes que possuem comportamento ofensor para nos contatar nos canais de
-                                                          ouvidoria. </p>
+        <p style="margin: 0;"> Job Function: Data Analyst</p>
+        <p style="margin: 0;"> Mar 2021 - Present</p>
+        <p style="margin-top: 8px;">Main activities: Construction of analyzes and processes to support data analysis involving the
+                                    mobile and fixed service for Vivo's B2B customers. <strong>ETL modeling and construction
+                                    for data structuring</strong>. Creation of <strong>Machine Leaning models</strong> for prediction
+                                    of customers who exhibit offensive behavior to contact us on the social channels ombudsman. </p>
     </div>
 </div>
